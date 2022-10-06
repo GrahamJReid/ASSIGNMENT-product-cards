@@ -1,0 +1,38 @@
+body{
+  background-color:black;
+}
+.top-row{
+  display:flex;
+  flex-direction:row;
+  justify-content:center;
+}
+.second-row{
+  display:flex;
+  flex-direction:row;
+  justify-content:center;
+}
+h2{
+  border:1px solid lightblue;
+}
+.card-text{
+  text-align:center;
+}
+.bold{
+  font-weight:bold;
+}
+.available{
+  text-align:center;
+  width:100%
+  
+}
+p.available{
+  width:100%;
+  background-color:grey ;
+  color:yellow;
+}
+.makealltheway{
+  width:100%;
+}
+div.card-body{
+  padding:0px;
+}
